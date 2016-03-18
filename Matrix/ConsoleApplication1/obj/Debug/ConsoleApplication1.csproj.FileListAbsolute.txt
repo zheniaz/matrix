@@ -28,3 +28,9 @@ C:\Users\Тамара\Documents\Visual Studio 2015\Projects\Matrix\ConsoleApplic
 C:\Users\Тамара\Documents\Visual Studio 2015\Projects\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\Тамара\Documents\Visual Studio 2015\Projects\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\Тамара\Documents\Visual Studio 2015\Projects\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Тамара\Documents\matrix\Matrix\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

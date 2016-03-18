@@ -61,8 +61,8 @@ namespace Test_Matrix
                     Console.Write(this.tm[i, j] + "  ");
                 }
             }
-            Console.WriteLine();
-            Console.WriteLine("после транспонирования:");
+            Console.WriteLine("\n");
+            Console.WriteLine("после транспонирования:\n");
             int[,] M_tr = new int[this.size2, this.size1];
             for (int i = 0; i < this.size2; i++)
             {
