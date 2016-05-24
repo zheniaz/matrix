@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test_Matrix
+namespace MatrixSpace
 {
-    class Matrix
+    public class Matrix
     {
+        public static int[,] LastResult { get; set; }
         int[,] tm { get; set; }
         int size1 { get; set; }
         int size2 { get; set; }
@@ -16,6 +17,7 @@ namespace Test_Matrix
             tm = arg;
             size1 = i;
             size2 = j;
+            LastResult = arg;
         }
 
 
@@ -32,6 +34,7 @@ namespace Test_Matrix
                 }
                 Console.WriteLine();
             }
+            LastResult = res;
         }
 
         public void multiplication(Matrix matrix2)
@@ -48,6 +51,7 @@ namespace Test_Matrix
                 }
                 Console.WriteLine();
             }
+            LastResult = res;
         }
 
         public void transposition()
@@ -73,6 +77,7 @@ namespace Test_Matrix
                 }
                 Console.WriteLine();
             }
+            LastResult = M_tr;
         }
 
         public void Show_Matrix()

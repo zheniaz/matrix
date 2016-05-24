@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test_Matrix
+namespace MatrixSpace
 {
     class Program
     {
@@ -80,7 +80,7 @@ namespace Test_Matrix
                                     }
                                     else
                                     {
-                                        throw new Exception("Недопустимая для умножения размерность матриц. Должно быть n = l"); 
+                                        throw new Exception("Недопустимая для умножения размерность матриц. Должно быть n = l");
                                     }
                                     break;
 
