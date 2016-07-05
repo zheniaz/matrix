@@ -1,9 +1,0 @@
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\MatrixTest.dll
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\MatrixTest.pdb
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\Matrix_Application.exe
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\Matrix_Application.pdb
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\obj\Debug\MatrixTest.csprojResolveAssemblyReference.cache
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\obj\Debug\MatrixTest.dll
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\MatrixTest\obj\Debug\MatrixTest.pdb
