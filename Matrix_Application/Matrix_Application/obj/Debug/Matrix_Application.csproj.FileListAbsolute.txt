@@ -1,6 +1,0 @@
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\bin\Debug\Matrix_Application.exe.config
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\bin\Debug\Matrix_Application.exe
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\bin\Debug\Matrix_Application.pdb
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\obj\Debug\Matrix_Application.csprojResolveAssemblyReference.cache
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\obj\Debug\Matrix_Application.exe
-c:\users\тамара\documents\visual studio 2015\Projects\Matrix_Application\Matrix_Application\obj\Debug\Matrix_Application.pdb
